@@ -37,4 +37,4 @@ def setCenterManual(x,y,z):
 #main code stuff
 setup()
 setCenter(0.2,0.2)
-print getMag()
+print(getMag())
