@@ -22,6 +22,9 @@ def getMag():
     magZ = magZ - centerZ
     return magX, magY, magZ
 
+def getDeg():
+    #this will return the heading in degrees northwise.
+
 def getGyro():
     return sensor.gyro
 
