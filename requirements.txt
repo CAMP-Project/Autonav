@@ -5,6 +5,6 @@ Adafruit-PlatformDetect==2.2.0
 Adafruit-PureIO==1.0.4
 board==1.0
 matplotlib==3.0.2
-numpy==1.16.2
+numpy==1.22.0
 rpi-ws281x==4.2.3
 RPi.GPIO==0.7.0
